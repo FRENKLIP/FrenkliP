@@ -46,6 +46,7 @@ print(me.mindset())
   <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Shell-111111?style=for-the-badge&logo=gnu-bash" />
 </p>
+
 ### 📊 Data Science
 
 <p>
