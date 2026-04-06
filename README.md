@@ -93,6 +93,7 @@ print(me.mindset())
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
 ---
 
 ## ⚡ Mindset
