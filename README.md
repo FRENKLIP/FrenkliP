@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Frenkli</h1>
+<h3 align="center">🚀 Aspiring Developer | Problem Solver | Tech Enthusiast</h3>
 
-<!--
-**FRENKLIP/FrenkliP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Passionate about learning and building
+- 🧠 Always improving my skills
+- 💻 Interested in software development & tech
+- 🎯 Goal: Become a high-level developer
+
+---
+
+### 🧠 Me as Code
+
+```cpp
+int main() {
+    string name = "Frenkli";
+    string mindset = "always learning";
+
+    while (mindset == "always learning") {
+        cout << "Improving every day 🚀" << endl;
+    }
+}
