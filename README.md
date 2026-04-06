@@ -87,7 +87,8 @@ print(me.mindset())
 ## 🌍 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/FRENKLIP">GitHub</a>
+  <a href="https://github.com/FRENKLIP](https://www.linkedin.com/in/frenkli-paluku-640a39212/">LinkdIn</a>
 </p>
 
 ---
