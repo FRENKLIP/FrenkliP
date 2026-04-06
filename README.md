@@ -85,12 +85,14 @@ print(me.mindset())
 ---
 
 ## 🌍 Connect With Me
-
 <p>
-  <a href="https://github.com/FRENKLIP">GitHub</a>
-  <a href="https://www.linkedin.com/in/frenkli-paluku-640a39212/">LinkdIn</a>
+  <a href="https://github.com/FRENKLIP">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/frenkli-paluku-640a39212/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
-
 ---
 
 ## ⚡ Mindset
