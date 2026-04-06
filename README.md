@@ -1,25 +1,35 @@
 <h1 align="center">Hi 👋, I'm Frenkli</h1>
-<h3 align="center">🚀 Aspiring Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">📊 Data Science Student | Python • C • R</h3>
+
+<p align="center">
+  Turning data into insights and ideas into code 🚀
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💡 Passionate about learning and building
-- 🧠 Always improving my skills
-- 💻 Interested in software development & tech
-- 🎯 Goal: Become a high-level developer
+- 🎓 Data Science student
+- 📊 Interested in data analysis, statistics, and machine learning
+- 🐍 Working mainly with Python
+- ⚙️ Strong foundation in C
+- 📈 Using R for data visualization and statistical analysis
+- 🧠 Always learning and improving
 
 ---
 
-### 🧠 Me as Code
+## 💡 Me as Code
 
-```cpp
-int main() {
-    string name = "Frenkli";
-    string mindset = "always learning";
+```python
+class Frenkli:
+    def __init__(self):
+        self.role = "Data Science Student"
+        self.languages = ["Python", "C", "R"]
+        self.mindset = "always learning"
 
-    while (mindset == "always learning") {
-        cout << "Improving every day 🚀" << endl;
-    }
-}
+    def work(self):
+        while self.mindset == "always learning":
+            return "Analyzing data 📊 | Building models 🤖 | Improving daily 🚀"
+
+me = Frenkli()
+print(me.work())
