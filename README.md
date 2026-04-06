@@ -88,7 +88,7 @@ print(me.mindset())
 
 <p>
   <a href="https://github.com/FRENKLIP">GitHub</a>
-  <a href="https://github.com/FRENKLIP](https://www.linkedin.com/in/frenkli-paluku-640a39212/">LinkdIn</a>
+  <a href="https://www.linkedin.com/in/frenkli-paluku-640a39212/">LinkdIn</a>
 </p>
 
 ---
