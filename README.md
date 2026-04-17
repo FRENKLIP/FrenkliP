@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frenkli</h1>
-<h3 align="center">📊 Data Science Student | Python • R • C</h3>
+<h3 align="center">📊 Data Science & Software Engeneering Student | Python • C</h3>
 
 <p align="center">
   Turning data into insights 🚀
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Data Science student
+* 🎓 Data Science at Univerysity of Tirana & Software Student at 42 Tirana
 * 📊 Interested in data analysis, statistics & machine learning
 * 🐍 Working mainly with Python
 * 📈 Using R for statistical analysis
@@ -73,6 +73,7 @@ print(me.mindset())
 * 🤖 Machine learning fundamentals
 * 📈 Statistics & probability
 * 🧹 Data cleaning & preprocessing
+* 🧑‍💻 Software Architecture
 
 ---
 
