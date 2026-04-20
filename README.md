@@ -24,7 +24,7 @@
 class DataScientist:
     def __init__(self):
         self.name = "Frenkli"
-        self.role = "Data Science Student"
+        self.role = "Data Science & Software Engenieering Student"
         self.languages = ["Python", "R", "C"]
 
     def mindset(self):
