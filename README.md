@@ -15,7 +15,7 @@ Passionate about data, algorithms, and building things from scratch.
 - 🎓 Studying Data Science at **University of Tirana**
 - 💻 Software Engineering student at **42 Tirana**
 - 📊 Interested in data analysis, machine learning & statistics
-- ⚙️ Strong foundation in low-level programming with C
+- ⚙️ Strong foundation in low-level programming with C & C++
 - 🐍 Building projects with Python and R
 - 🧠 Focused on continuous learning and problem solving
 
@@ -25,7 +25,7 @@ Passionate about data, algorithms, and building things from scratch.
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,r" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,r" />
 </p>
 
 ### Tools & Technologies
@@ -56,7 +56,7 @@ class Frenkli:
             "Software Engineering"
         ]
 
-        self.languages = ["Python", "C", "R"]
+        self.languages = ["Python", "C", "C++", "R"]
 
     def mindset(self):
         return "Build → Learn → Improve → Repeat"
