@@ -1,25 +1,26 @@
-<h1 align="center">Hey 👋 I'm Frenkli</h1>
+<div align="center">
 
-<h3 align="center">
-📊 Data Science Student • 💻 Software Engineering Student • ☕ Debugging Survivor
-</h3>
+# Frenkli Paluku
 
-<p align="center">
-Turning coffee into code and data into insights 🚀
-</p>
+### 📊 Data Science Student • 💻 Software Engineering Student • ⚙️ Problem Solver
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+%7C+C+%7C+C%2B%2B+Developer;Data+Science+Enthusiast;42+Tirana+Student;Machine+Learning+Explorer;Always+Learning+New+Things" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+%7C+C+%7C+C%2B%2B+%7C+R;Data+Science+%7C+Machine+Learning+Enthusiast;42+Tirana+Student;Always+Learning+New+Things" />
 
 ---
 
-# 🧠 About Me
+## 👨‍💻 About Me
+
+</div>
 
 ```cpp
 class Frenkli {
 public:
-    string role = "Data Science & Software Engineering Student";
+    string location = "Tirana, Albania";
+
+    vector<string> education = {
+        "Data Science @ University of Tirana",
+        "Software Engineering @ 42 Tirana"
+    };
 
     vector<string> languages = {
         "Python",
@@ -28,99 +29,78 @@ public:
         "R"
     };
 
-    string currentFocus = "Machine Learning & Problem Solving";
+    string focus = "Machine Learning, Data Science & Algorithms";
 
     void mindset() {
-        cout << "Build. Break. Learn. Repeat." << endl;
+        cout << "Build → Break → Learn → Repeat" << endl;
     }
 };
 ```
 
-- 🎓 Data Science student at **University of Tirana**
-- 💻 Software Engineering student at **42 Tirana**
-- 📈 Interested in machine learning, statistics & algorithms
-- ⚙️ Love low-level programming and optimization
-- 🐍 Building projects with Python
-- 🧩 Solving problems one bug at a time
+- 📊 Passionate about Data Science & Machine Learning  
+- ⚙️ Strong foundation in C / C++ systems programming  
+- 🧠 Love algorithms, math & problem solving  
+- 🚀 Building projects while learning new tech  
+- ☕ Powered by coffee + debugging sessions  
 
 ---
 
-# ⚒️ Tech Stack
+<div align="center">
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,r" />
-</p>
+## 🛠️ Tech Stack
 
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,r" />
 
-### 📊 Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly" />
-  <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter" />
-</p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+### Data Science
+<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge&logo=plotly" />
+<img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter" />
 
 ---
 
-# 📌 Current Mission
+## 📌 Current Status
 
 ```txt
-[✓] Survive 42 projects
-[✓] Learn Machine Learning
-[✓] Fix bugs
-[ ] Fix bugs without creating new bugs
+✔ Learning Machine Learning
+✔ Surviving 42 Projects
+✔ Improving C / C++
+✔ Fixing bugs (and sometimes creating new ones)
 ```
 
 ---
 
-# 🚀 Goals for 2026
+## 📈 GitHub Stats
 
-- 🤖 Build machine learning projects
-- 📊 Create interactive dashboards
-- ⚡ Improve algorithms & system design skills
-- 🌍 Contribute to open source
-- 🧠 Become a stronger engineer every day
+<img src="https://github-readme-stats.vercel.app/api?username=FRENKLIP&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FRENKLIP&theme=tokyonight&hide_border=true" />
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FRENKLIP&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FRENKLIP&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRENKLIP&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRENKLIP&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/FRENKLIP">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="https://github.com/FRENKLIP">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-  <a href="https://www.linkedin.com/in/frenkli-paluku-640a39212/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/frenkli-paluku-640a39212/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FRENKLIP&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=FRENKLIP&label=Profile+Views&color=58A6FF&style=flat" />
 
-<p align="center">
-  <i>"First, solve the problem. Then, write clean code."</i>
-</p>
+---
+
+### 💡 "Build. Break. Learn. Repeat."
+
+</div>
