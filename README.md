@@ -1,102 +1,65 @@
-<h1 align="center">Hi 👋, I'm Frenkli</h1>
-<h3 align="center">📊 Data Science & Software Engeneering Student | Python • C</h3>
+<h1 align="center">Hey 👋 I'm Frenkli</h1>
+
+<h3 align="center">
+Data Science Student @ University of Tirana • Software Engineering @ 42 Tirana
+</h3>
 
 <p align="center">
-  Turning data into insights 🚀
+Passionate about data, algorithms, and building things from scratch.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 🎓 Data Science at Univerysity of Tirana & Software Student at 42 Tirana
-* 📊 Interested in data analysis, statistics & machine learning
-* 🐍 Working mainly with Python
-* 📈 Using R for statistical analysis
-* ⚙️ Strong fundamentals in C
-* 🧠 Always learning and improving
+- 🎓 Studying Data Science at **University of Tirana**
+- 💻 Software Engineering student at **42 Tirana**
+- 📊 Interested in data analysis, machine learning & statistics
+- ⚙️ Strong foundation in low-level programming with C
+- 🐍 Building projects with Python and R
+- 🧠 Focused on continuous learning and problem solving
 
 ---
 
-## 💡 Me as Code
+## 💻 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,bash,r" />
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### Data Science & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-141414?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-141414?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/ScikitLearn-141414?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Matplotlib-141414?style=for-the-badge&logo=plotly" />
+  <img src="https://img.shields.io/badge/Jupyter-141414?style=for-the-badge&logo=jupyter" />
+</p>
+
+---
+
+## 🧩 Current Focus
 
 ```python
-class DataScientist:
+class Frenkli:
     def __init__(self):
-        self.name = "Frenkli"
-        self.role = "Data Science & Software Engenieering Student"
-        self.languages = ["Python", "R", "C"]
+        self.learning = [
+            "Machine Learning",
+            "Data Analysis",
+            "Algorithms",
+            "Software Engineering"
+        ]
+
+        self.languages = ["Python", "C", "R"]
 
     def mindset(self):
-        return "Analyze → Learn → Improve → Repeat 🚀"
+        return "Build → Learn → Improve → Repeat"
 
-me = DataScientist()
+me = Frenkli()
 print(me.mindset())
-```
-
----
-
-## 🛠️ Tools & Technologies
-
-### 🧑‍💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r" />
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Shell-111111?style=for-the-badge&logo=gnu-bash" />
-</p>
-
-### 📊 Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter" />
-</p>
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode" />
-</p>
-
----
-
-## 📚 What I'm Learning
-
-* 📊 Data analysis & visualization
-* 🤖 Machine learning fundamentals
-* 📈 Statistics & probability
-* 🧹 Data cleaning & preprocessing
-* 🧑‍💻 Software Architecture
-
----
-
-## 📌 Projects (Coming Soon)
-
-* 📊 Data analysis projects
-* 🤖 Machine learning models
-* 📈 Visualization dashboards
-
----
-
-## 🌍 Connect With Me
-<p>
-  <a href="https://github.com/FRENKLIP">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/frenkli-paluku-640a39212/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-## ⚡ Mindset
-
-> Keep building. Keep learning. Keep going.
