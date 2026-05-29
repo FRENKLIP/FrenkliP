@@ -58,20 +58,12 @@ public:
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🚀 Projects
 
 <div align="center">
 
 | Project | Description | Tech | Status |
-|--------|-------------|------|--------|
+|----------|-------------|------|--------|
 | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width, precision | C | ✅ Done |
 | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
 | 📊 **Data Analysis** | EDA & visualization on real datasets | Python, Pandas, Matplotlib | 🔄 Building |
@@ -109,28 +101,6 @@ graph LR
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FRENKLIP&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRENKLIP&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FRENKLIP&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -138,7 +108,9 @@ graph LR
 <a href="https://github.com/FRENKLIP">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/frenkli-paluku-640a39212/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
