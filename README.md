@@ -72,7 +72,7 @@ public:
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
-| 🔧 **[ft_printf](https://github.com/FRENKLIP/ft_printf)** | Custom `printf` from scratch — format specifiers, flags, width, precision | C | ✅ Done |
+| 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width, precision | C | ✅ Done |
 | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
 | 📊 **Data Analysis** | EDA & visualization on real datasets | Python, Pandas, Matplotlib | 🔄 Building |
 | 🧠 **ML Experiments** | Classification, regression & clustering models | Python, Scikit-Learn | 🔄 Building |
