@@ -76,8 +76,8 @@ public:
 |-------|---------|-------------|------|--------|
 | ⚙️ **Software Engineering \| 42 Tirana** | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width and precision | C | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
-| ⚙️ **Software Engineering \| 42 Tirana** | 📥 **[get_next_line](https://github.com/FRENKLIP/get_next_line)** | Reads files line by line using file descriptors, buffers and static memory | C | ✅ Done |
-| ⚙️ **Software Engineering \| 42 Tirana** | 🔁 **[push_swap](https://github.com/FRENKLIP/push_swap)** | Sorting algorithm project using two stacks and a limited set of operations | C | 🔄 Building |
+| ⚙️ **Software Engineering \| 42 Tirana** | 📥 **[get_next_line](https://github.com/FRENKLIP/Get-Next-Line)** | Reads files line by line using file descriptors, buffers and static memory | C | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 🔁 **[push_swap](https://github.com/FRENKLIP/PushSWAP)** | Sorting algorithm project using two stacks and a limited set of operations | C | 🔄 Building |
 | 📊 **Data Science** | 🌸 **[Iris Flower Classification](https://github.com/FRENKLIP/IrisFlower-Classification)** | KNN classification model built from scratch to understand ML fundamentals | Python | ✅ Done |
 | 📊 **Data Science** | 🛫 **[TiranaFly](https://github.com/FRENKLIP/TiranaFLY)** | Data analysis and visualization project focused on aviation/passenger insights | Python, Pandas, Matplotlib | ✅ Done |
 | 📊 **Data Science** | 📊 **[Data Analysis Projects](https://github.com/FRENKLIP?tab=repositories)** | Exploratory data analysis and visualizations on real-world datasets | Python, Pandas, Matplotlib | 🔄 Building |
