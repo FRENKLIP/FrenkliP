@@ -52,7 +52,17 @@ public:
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 
 ### Currently Learning 🚀
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,mysql,postgres,tensorflow,pytorch&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/42%20Tirana-Systems%20%26%20Networks-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/42%20Tirana-OOP%20%26%20Algorithms-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-Databases-6E40C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-Scientific%20Computing-F78166?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-Optimization-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next-Machine%20Learning-FFB000?style=for-the-badge" />
 
 </div>
 
