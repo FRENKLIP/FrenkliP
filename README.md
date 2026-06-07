@@ -45,7 +45,7 @@ public:
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 ### Databases
@@ -62,41 +62,77 @@ public:
 
 <div align="center">
 
-| Project | Description | Tech | Status |
-|----------|-------------|------|--------|
-| 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width, precision | C | ✅ Done |
-| 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
-| 📊 **Data Analysis** | EDA & visualization on real datasets | Python, Pandas, Matplotlib | 🔄 Building |
-| 🧠 **ML Experiments** | Classification, regression & clustering models | Python, Scikit-Learn | 🔄 Building |
-
-> 💡 More projects dropping soon — follow to stay updated!
+| Field | Project | Description | Tech | Status |
+|-------|---------|-------------|------|--------|
+| ⚙️ **Software Engineering \| 42 Tirana** | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width and precision | C | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 📥 **get_next_line** | Reads files line by line using file descriptors, buffers and static memory | C | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 🔁 **push_swap** | Sorting algorithm project using two stacks and a limited set of operations | C | 🔄 Building |
+| 📊 **Data Science** | 🌸 **Iris Flower Classification** | KNN classification model built from scratch to understand ML fundamentals | Python | ✅ Done |
+| 📊 **Data Science** | 🛫 **TiranaFly** | Data analysis and visualization project focused on aviation/passenger insights | Python, Pandas, Matplotlib | ✅ Done |
+| 📊 **Data Science** | 📊 **Data Analysis Projects** | Exploratory data analysis and visualizations on real-world datasets | Python, Pandas, Matplotlib | 🔄 Building |
+| 📊 **Data Science** | 🧠 **ML Experiments** | Classification, regression and clustering models | Python, Scikit-Learn | 🔄 Building |
+| 🏙️ **App Concept** | **BetterTIRANA** | Smart city idea for reporting urban problems and connecting citizens with city departments | App Concept | 💡 Idea |
 
 </div>
 
+> 💡 More projects dropping soon — follow to stay updated!
+
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ Skill Tree
 
 ```mermaid
-graph LR
-    A[✅ C / C++] --> B[✅ Python]
-    B --> C[✅ Data Science]
-    C --> D[🔄 ML / Deep Learning]
-    D --> E[🔄 TensorFlow & PyTorch]
-    E --> F[⏳ SQL / NoSQL]
-    F --> G[⏳ Docker / K8s]
-    G --> H[⏳ MLOps]
-    H --> I[🎯 AI Engineer]
+flowchart LR
+    A["🚀 Frenkli Paluku"] --> SE["⚙️ Software Engineering - 42 Tirana"]
+    A --> DS["📊 Data Science - University of Tirana"]
 
-    style A fill:#238636,color:#fff
-    style B fill:#238636,color:#fff
-    style C fill:#238636,color:#fff
-    style D fill:#1f6feb,color:#fff
-    style E fill:#1f6feb,color:#fff
-    style F fill:#30363d,color:#8b949e
-    style G fill:#30363d,color:#8b949e
-    style H fill:#30363d,color:#8b949e
-    style I fill:#6e40c9,color:#fff
+    SE --> SE1["✅ Level 1<br/>Programming Fundamentals<br/>C Programming<br/>String Manipulation<br/>Dynamic Allocation<br/>File I/O<br/>Algorithmic Problem Solving"]
+
+    DS --> DS1["✅ Year 1<br/>Calculus 1 & 2<br/>Linear Algebra<br/>Programming Basics<br/>Intro to Data Science<br/>Probability & Statistics<br/>Data Structures<br/>Data Processing & Visualization"]
+
+    SE1 --> SE2["🔒 Level 2<br/>Systems & Networks Administration<br/>Linux Infrastructure<br/>Virtualization<br/>Containers<br/>Server Management"]
+
+    SE1 --> SE3["🔒 Level 2<br/>Object Oriented Programming<br/>Python<br/>OOP Principles<br/>Inheritance<br/>Design Patterns"]
+
+    DS1 --> DS2["🔄 Year 2<br/>Advanced Calculus<br/>Databases<br/>Scientific Computing<br/>OOP<br/>Big Data<br/>Optimization<br/>Numerical Methods"]
+
+    SE2 --> SE4["🔒 Level 3<br/>System & Network Programming<br/>Multithreading<br/>Synchronization<br/>Resource Management<br/>Network Protocols"]
+
+    SE3 --> SE5["🔒 Level 3<br/>Algorithmics<br/>Optimization<br/>Graph Traversal<br/>Multi-Agent Pathfinding<br/>System Simulation"]
+
+    DS2 --> DS3["⏳ Year 3<br/>Machine Learning<br/>Complex Networks<br/>Signal Processing<br/>Data Analysis<br/>Professional Practice<br/>Data Science Systems Project"]
+
+    SE4 --> SE6["🔒 Level 4<br/>Web Programming<br/>Full-Stack Development<br/>APIs<br/>Databases<br/>Authentication<br/>Deployment"]
+
+    SE5 --> SE7["🔒 Level 4<br/>Artificial Intelligence<br/>LLMs<br/>RAG<br/>AI Agents<br/>Prompt Engineering<br/>Autonomous Applications"]
+
+    DS3 --> DS4["🎯 Goal<br/>Data Scientist<br/>AI Engineer<br/>Machine Learning Engineer"]
+
+    SE6 --> FINAL["🔥 Build Real-World Intelligent Systems"]
+    SE7 --> FINAL
+    DS4 --> FINAL
+
+    style A fill:#0D1117,color:#fff,stroke:#58A6FF,stroke-width:3px
+
+    style SE fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:2px
+    style DS fill:#6e40c9,color:#fff,stroke:#a371f7,stroke-width:2px
+
+    style SE1 fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
+    style DS1 fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
+
+    style SE2 fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE3 fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE4 fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE5 fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE6 fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE7 fill:#30363d,color:#8b949e,stroke:#8b949e
+
+    style DS2 fill:#1f6feb,color:#fff,stroke:#58A6FF
+    style DS3 fill:#30363d,color:#8b949e,stroke:#8b949e
+    style DS4 fill:#f78166,color:#fff,stroke:#fff
+
+    style FINAL fill:#58A6FF,color:#0D1117,stroke:#fff,stroke-width:3px
 ```
 
 ---
