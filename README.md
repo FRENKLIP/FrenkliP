@@ -89,7 +89,6 @@ public:
 > 💡 More projects dropping soon — follow to stay updated!
 
 ---
-
 ## 🗺️ Skill Tree
 
 ```mermaid
@@ -97,31 +96,32 @@ flowchart LR
     A["🚀 Frenkli Paluku"] --> SE["⚙️ Software Engineering - 42 Tirana"]
     A --> DS["📊 Data Science - University of Tirana"]
 
-    SE --> SE1["✅ Level 1<br/>Programming Fundamentals<br/>C Programming<br/>String Manipulation<br/>Dynamic Allocation<br/>File I/O<br/>Algorithmic Problem Solving"]
+    SE --> SE1["✅ Level 1 Completed<br/>Programming Fundamentals<br/>C Programming<br/>String Manipulation<br/>Dynamic Allocation<br/>File I/O<br/>Algorithmic Problem Solving"]
 
-    DS --> DS1["✅ Year 1<br/>Calculus 1 & 2<br/>Linear Algebra<br/>Programming Basics<br/>Intro to Data Science<br/>Probability & Statistics<br/>Data Structures<br/>Data Processing & Visualization"]
+    DS --> DS1["✅ Year 1 Completed<br/>Calculus 1 & 2<br/>Linear Algebra<br/>Programming Basics<br/>Intro to Data Science<br/>Probability & Statistics<br/>Data Structures<br/>Data Processing & Visualization"]
 
-    SE1 --> SE2["🔒 Level 2<br/>Systems & Networks Administration<br/>Linux Infrastructure<br/>Virtualization<br/>Containers<br/>Server Management"]
+    SE1 --> SE2A["🔄 Level 2 Started<br/>Systems & Networks Administration<br/>Linux Infrastructure<br/>Virtualization<br/>Containers<br/>Server Management"]
 
-    SE1 --> SE3["🔒 Level 2<br/>Object Oriented Programming<br/>Python<br/>OOP Principles<br/>Inheritance<br/>Design Patterns"]
+    SE1 --> SE2B["🔄 Level 2 Started<br/>Object Oriented Programming<br/>Python<br/>OOP Principles<br/>Inheritance<br/>Design Patterns"]
 
-    DS1 --> DS2["🔄 Year 2<br/>Advanced Calculus<br/>Databases<br/>Scientific Computing<br/>OOP<br/>Big Data<br/>Optimization<br/>Numerical Methods"]
+    DS1 --> DS2["🔄 Year 2 In Progress<br/>Advanced Calculus<br/>Databases<br/>Scientific Computing<br/>OOP<br/>Big Data<br/>Optimization<br/>Numerical Methods"]
 
-    SE2 --> SE4["🔒 Level 3<br/>System & Network Programming<br/>Multithreading<br/>Synchronization<br/>Resource Management<br/>Network Protocols"]
+    SE2A --> SE3A["⏳ Level 3<br/>System & Network Programming<br/>Multithreading<br/>Synchronization<br/>Resource Management<br/>Network Protocols"]
 
-    SE3 --> SE5["🔒 Level 3<br/>Algorithmics<br/>Optimization<br/>Graph Traversal<br/>Multi-Agent Pathfinding<br/>System Simulation"]
+    SE2B --> SE3B["⏳ Level 3<br/>Algorithmics<br/>Optimization<br/>Graph Traversal<br/>Multi-Agent Pathfinding<br/>System Simulation"]
 
     DS2 --> DS3["⏳ Year 3<br/>Machine Learning<br/>Complex Networks<br/>Signal Processing<br/>Data Analysis<br/>Professional Practice<br/>Data Science Systems Project"]
 
-    SE4 --> SE6["🔒 Level 4<br/>Web Programming<br/>Full-Stack Development<br/>APIs<br/>Databases<br/>Authentication<br/>Deployment"]
+    SE3A --> SE4A["⏳ Level 4<br/>Web Programming<br/>Full-Stack Development<br/>APIs<br/>Databases<br/>Authentication<br/>Deployment"]
 
-    SE5 --> SE7["🔒 Level 4<br/>Artificial Intelligence<br/>LLMs<br/>RAG<br/>AI Agents<br/>Prompt Engineering<br/>Autonomous Applications"]
+    SE3B --> SE4B["⏳ Level 4<br/>Artificial Intelligence<br/>LLMs<br/>RAG<br/>AI Agents<br/>Prompt Engineering<br/>Autonomous Applications"]
 
-    DS3 --> DS4["🎯 Goal<br/>Data Scientist<br/>AI Engineer<br/>Machine Learning Engineer"]
+    SE4A --> G1["🎯 Strong Software Engineer"]
+    SE4B --> G1
+    DS3 --> G2["🎯 AI / Data Engineer"]
 
-    SE6 --> FINAL["🔥 Build Real-World Intelligent Systems"]
-    SE7 --> FINAL
-    DS4 --> FINAL
+    G1 --> FINAL["🔥 Build Real-World Intelligent Systems"]
+    G2 --> FINAL
 
     style A fill:#0D1117,color:#fff,stroke:#58A6FF,stroke-width:3px
 
@@ -131,19 +131,21 @@ flowchart LR
     style SE1 fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
     style DS1 fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
 
-    style SE2 fill:#30363d,color:#8b949e,stroke:#8b949e
-    style SE3 fill:#30363d,color:#8b949e,stroke:#8b949e
-    style SE4 fill:#30363d,color:#8b949e,stroke:#8b949e
-    style SE5 fill:#30363d,color:#8b949e,stroke:#8b949e
-    style SE6 fill:#30363d,color:#8b949e,stroke:#8b949e
-    style SE7 fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE2A fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
+    style SE2B fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
+    style DS2 fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
 
-    style DS2 fill:#1f6feb,color:#fff,stroke:#58A6FF
+    style SE3A fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE3B fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE4A fill:#30363d,color:#8b949e,stroke:#8b949e
+    style SE4B fill:#30363d,color:#8b949e,stroke:#8b949e
     style DS3 fill:#30363d,color:#8b949e,stroke:#8b949e
-    style DS4 fill:#f78166,color:#fff,stroke:#fff
 
+    style G1 fill:#f78166,color:#fff,stroke:#fff,stroke-width:1px
+    style G2 fill:#f78166,color:#fff,stroke:#fff,stroke-width:1px
     style FINAL fill:#58A6FF,color:#0D1117,stroke:#fff,stroke-width:3px
 ```
+````
 
 ---
 
