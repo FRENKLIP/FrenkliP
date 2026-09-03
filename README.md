@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+C+%7C+C%2B%2B+%7C+R;Data+Science+%26+Machine+Learning+Enthusiast;42+Tirana+Student+%F0%9F%92%AA;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/output/github-contribution-grid-snake.svg?v=1" alt="Snake Animation" />
+
 </div>
 
 ---
@@ -151,17 +155,6 @@ flowchart LR
     style FINAL fill:#58A6FF,color:#0D1117,stroke:#fff,stroke-width:3px
 ```
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/output/github-contribution-grid-snake.svg?v=1" alt="Snake Animation" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
