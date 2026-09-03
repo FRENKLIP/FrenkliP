@@ -14,19 +14,6 @@
 
 ## 🖥️ About Me
 
-```cpp
-class Frenkli {
-public:
-    string location   = "Tirana, Albania";
-    string education  = "Data Science @ UniTirana + Software Eng @ 42 Tirana";
-    string languages  = "Python | C | C++ | R";
-    string focus      = "Machine Learning, Data Science & Algorithms";
-    string currently  = "Level 3 @ 42 Tirana & Deepening ML / Data Science";
-
-    void mindset() { cout << "Build → Break → Learn → Repeat" << endl; }
-};
-```
-
 - 📊 Passionate about **Data Science & Machine Learning**
 - ⚙️ Strong foundation in **C / C++** systems programming & DevOps/Infrastructure
 - 🧠 Love algorithms, math & problem solving
@@ -154,7 +141,13 @@ flowchart LR
     style G2 fill:#f78166,color:#fff,stroke:#fff,stroke-width:1px
     style FINAL fill:#58A6FF,color:#0D1117,stroke:#fff,stroke-width:3px
 ```
+---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
