@@ -72,20 +72,20 @@ public:
 
 <div align="center">
 
-| Field | Project | Description | Tech | Status |
-|-------|---------|-------------|------|--------|
-| ⚙️ **Systems / DevOps \| 42 Tirana** | 🐳 **[Inception](https://github.com/FRENKLIP)** | System administration & containerization: multi-service infrastructure using Docker Compose (NGINX, MariaDB, WordPress) | Docker, Docker Compose, NGINX, MariaDB | ✅ Done |
-| 🕹️ **Algorithms \| 42 Tirana** | 👻 **[Pacman](https://github.com/FRENKLIP)** | Classic Pacman game implementation featuring multi-agent AI, search algorithms, and game state logic | C++ / Python | ✅ Done |
-| 🧩 **Algorithms \| 42 Tirana** | 🌀 **[A-MAZE-ING](https://github.com/FRENKLIP)** | Maze generation & pathfinding visualizer using advanced graph traversal algorithms | C / C++ | ✅ Done |
-| ⚙️ **Software Engineering \| 42 Tirana** | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width and precision | C | ✅ Done |
-| ⚙️ **Software Engineering \| 42 Tirana** | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
-| ⚙️ **Software Engineering \| 42 Tirana** | 📥 **[get_next_line](https://github.com/FRENKLIP/Get-Next-Line)** | Reads files line by line using file descriptors, buffers and static memory | C | ✅ Done |
-| ⚙️ **Software Engineering \| 42 Tirana** | 🔁 **[push_swap](https://github.com/FRENKLIP/PushSWAP)** | Sorting algorithm project using two stacks and a limited set of operations | C | ✅ Done |
-| 📊 **Data Science** | 🌸 **[Iris Flower Classification](https://github.com/FRENKLIP/IrisFlower-Classification)** | KNN classification model built from scratch to understand ML fundamentals | Python | ✅ Done |
-| 📊 **Data Science** | 🛫 **[TiranaFly](https://github.com/FRENKLIP/TiranaFLY)** | Data analysis and visualization project focused on aviation/passenger insights | Python, Pandas, Matplotlib | ✅ Done |
-| 📊 **Data Science** | 🏆 **[World Cup Predictor](https://github.com/FRENKLIP)** | Predictive machine learning model and data analysis for FIFA World Cup match outcomes | Python, Pandas, Scikit-Learn | ✅ Done |
-| 📊 **Data Science** | 🧠 **[ML Experiments](https://github.com/FRENKLIP?tab=repositories)** | Classification, regression and clustering models | Python, Scikit-Learn | 🔄 Building |
-| 🏙️ **App Concept** | 🏙️ **[BetterTIRANA](https://github.com/FRENKLIP/BetterTIRANA)** | Smart city idea for reporting urban problems and connecting citizens with city departments | App Concept | 💡 Idea |
+| Field | Project | Preview | Description | Tech | Status |
+|-------|---------|---------|-------------|------|--------|
+| 🕹️ **Algorithms \| 42 Tirana** | 👻 **[Pacman](https://github.com/FRENKLIP)** | <img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/main/assets/pacman-preview.gif" width="130" alt="Pacman Preview" /> | Classic Pacman game featuring multi-agent AI & pathfinding algorithms | C++ / Python | ✅ Done |
+| 🧩 **Algorithms \| 42 Tirana** | 🌀 **[A-MAZE-ING](https://github.com/FRENKLIP)** | <img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/main/assets/maze-preview.gif" width="130" alt="Maze Preview" /> | Maze generation & pathfinding visualizer using graph algorithms | C / C++ | ✅ Done |
+| ⚙️ **Systems / DevOps \| 42 Tirana** | 🐳 **[Inception](https://github.com/FRENKLIP)** | — | System administration & containerization: Docker Compose infrastructure | Docker, NGINX, MariaDB | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | — | Custom `printf` from scratch — format specifiers, flags, width/precision | C | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | — | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 📥 **[get_next_line](https://github.com/FRENKLIP/Get-Next-Line)** | — | Reads files line by line using file descriptors and static buffers | C | ✅ Done |
+| ⚙️ **Software Engineering \| 42 Tirana** | 🔁 **[push_swap](https://github.com/FRENKLIP/PushSWAP)** | — | Sorting algorithm project using two stacks and limited operations | C | ✅ Done |
+| 📊 **Data Science** | 🌸 **[Iris Classification](https://github.com/FRENKLIP/IrisFlower-Classification)** | — | KNN classification model built from scratch | Python | ✅ Done |
+| 📊 **Data Science** | 🛫 **[TiranaFly](https://github.com/FRENKLIP/TiranaFLY)** | — | Aviation data analysis and passenger insight visualizations | Python, Pandas | ✅ Done |
+| 📊 **Data Science** | 🏆 **[World Cup Predictor](https://github.com/FRENKLIP)** | — | Predictive ML model and statistical analysis for FIFA match outcomes | Python, Scikit-Learn | 🔄 Building |
+| 📊 **Data Science** | 🧠 **[ML Experiments](https://github.com/FRENKLIP?tab=repositories)** | — | Classification, regression, and clustering models | Python, Scikit-Learn | 🔄 Building |
+| 🏙️ **App Concept** | 🏙️ **[BetterTIRANA](https://github.com/FRENKLIP/BetterTIRANA)** | — | Smart city concept connecting citizens with urban management | App Concept | 💡 Idea |
 
 </div>
 
@@ -150,6 +150,16 @@ flowchart LR
     style G2 fill:#f78166,color:#fff,stroke:#fff,stroke-width:1px
     style FINAL fill:#58A6FF,color:#0D1117,stroke:#fff,stroke-width:3px
 ```
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
 
 ---
 
