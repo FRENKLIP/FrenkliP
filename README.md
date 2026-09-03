@@ -18,7 +18,7 @@
 - ⚙️ Strong foundation in **C / C++** systems programming & DevOps/Infrastructure
 - 🧠 Love algorithms, math & problem solving
 - 🚀 Always building something new in public
-- ☕ Powered by coffee + `printf` debugging
+- ☕ Powered by coffee + debugging
 
 ---
 
