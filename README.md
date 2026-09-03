@@ -157,7 +157,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/output/github-contribution-grid-snake.svg?v=1" alt="Snake Animation" />
 
 </div>
 
