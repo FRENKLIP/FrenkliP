@@ -85,7 +85,6 @@ public:
 | 📊 **Data Science** | 🛫 **[TiranaFly](https://github.com/FRENKLIP/TiranaFLY)** | Data analysis and visualization project focused on aviation/passenger insights | Python, Pandas, Matplotlib | ✅ Done |
 | 📊 **Data Science** | 📊 **[Data Analysis Projects](https://github.com/FRENKLIP?tab=repositories)** | Exploratory data analysis and visualizations on real-world datasets | Python, Pandas, Matplotlib | 🔄 Building |
 | 📊 **Data Science** | 🧠 **[ML Experiments](https://github.com/FRENKLIP?tab=repositories)** | Classification, regression and clustering models | Python, Scikit-Learn | 🔄 Building |
-| 🏙️ **App Concept** | 🏙️ **[BetterTIRANA](https://github.com/FRENKLIP/BetterTIRANA)** | Smart city idea for reporting urban problems and connecting citizens with city departments | App Concept | 💡 Idea |
 
 </div>
 
