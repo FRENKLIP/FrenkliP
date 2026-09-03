@@ -75,16 +75,17 @@ public:
 | Field | Project | Description | Tech | Status |
 |-------|---------|-------------|------|--------|
 | ⚙️ **Systems / DevOps \| 42 Tirana** | 🐳 **[Inception](https://github.com/FRENKLIP)** | System administration & containerization: multi-service infrastructure using Docker Compose (NGINX, MariaDB, WordPress) | Docker, Docker Compose, NGINX, MariaDB | ✅ Done |
-| 🕹️ **Algorithms \| 42 Tirana** | 👻 **[Pacman](https://github.com/FRENKLIP)** | Classic Pacman game implementation featuring multi-agent AI, search algorithms, and game state logic | Python | ✅ Done |
-| 🧩 **Algorithms \| 42 Tirana** | 🌀 **[A-MAZE-ING](https://github.com/FRENKLIP)** | Maze generation & pathfinding visualizer using advanced graph traversal algorithms | Python | ✅ Done |
+| 🕹️ **Algorithms \| 42 Tirana** | 👻 **[Pacman](https://github.com/FRENKLIP)** | Classic Pacman game implementation featuring multi-agent AI, search algorithms, and game state logic | C++ / Python | ✅ Done |
+| 🧩 **Algorithms \| 42 Tirana** | 🌀 **[A-MAZE-ING](https://github.com/FRENKLIP)** | Maze generation & pathfinding visualizer using advanced graph traversal algorithms | C / C++ | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width and precision | C | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 📥 **[get_next_line](https://github.com/FRENKLIP/Get-Next-Line)** | Reads files line by line using file descriptors, buffers and static memory | C | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 🔁 **[push_swap](https://github.com/FRENKLIP/PushSWAP)** | Sorting algorithm project using two stacks and a limited set of operations | C | ✅ Done |
 | 📊 **Data Science** | 🌸 **[Iris Flower Classification](https://github.com/FRENKLIP/IrisFlower-Classification)** | KNN classification model built from scratch to understand ML fundamentals | Python | ✅ Done |
 | 📊 **Data Science** | 🛫 **[TiranaFly](https://github.com/FRENKLIP/TiranaFLY)** | Data analysis and visualization project focused on aviation/passenger insights | Python, Pandas, Matplotlib | ✅ Done |
-| 📊 **Data Science** | 📊 **[Data Analysis Projects](https://github.com/FRENKLIP?tab=repositories)** | Exploratory data analysis and visualizations on real-world datasets | Python, Pandas, Matplotlib | 🔄 Building |
+| 📊 **Data Science** | 🏆 **[World Cup Predictor](https://github.com/FRENKLIP)** | Predictive machine learning model and data analysis for FIFA World Cup match outcomes | Python, Pandas, Scikit-Learn | ✅ Done |
 | 📊 **Data Science** | 🧠 **[ML Experiments](https://github.com/FRENKLIP?tab=repositories)** | Classification, regression and clustering models | Python, Scikit-Learn | 🔄 Building |
+| 🏙️ **App Concept** | 🏙️ **[BetterTIRANA](https://github.com/FRENKLIP/BetterTIRANA)** | Smart city idea for reporting urban problems and connecting citizens with city departments | App Concept | 💡 Idea |
 
 </div>
 
