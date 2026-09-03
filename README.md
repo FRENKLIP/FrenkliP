@@ -17,14 +17,14 @@ public:
     string education  = "Data Science @ UniTirana + Software Eng @ 42 Tirana";
     string languages  = "Python | C | C++ | R";
     string focus      = "Machine Learning, Data Science & Algorithms";
-    string currently  = "Building ML models & surviving 42 projects";
+    string currently  = "Level 3 @ 42 Tirana & Deepening ML / Data Science";
 
     void mindset() { cout << "Build → Break → Learn → Repeat" << endl; }
 };
 ```
 
 - 📊 Passionate about **Data Science & Machine Learning**
-- ⚙️ Strong foundation in **C / C++** systems programming
+- ⚙️ Strong foundation in **C / C++** systems programming & DevOps/Infrastructure
 - 🧠 Love algorithms, math & problem solving
 - 🚀 Always building something new in public
 - ☕ Powered by coffee + `printf` debugging
@@ -39,7 +39,7 @@ public:
 <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,r&theme=dark" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,nginx&theme=dark" />
 
 ### Data Science
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -48,8 +48,8 @@ public:
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+### Databases & Services
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mariadb&theme=dark" />
 
 ### Currently Learning 🚀
 
@@ -57,8 +57,8 @@ public:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/42%20Tirana-Systems%20%26%20Networks-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/42%20Tirana-OOP%20%26%20Algorithms-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/42%20Tirana-Systems%20%26%20Networks%20(Lvl%202%20Done)-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/42%20Tirana-OOP%20%26%20Algorithms%20(Lvl%202%20Done)-1F6FEB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Science-Databases-6E40C9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Science-Scientific%20Computing-F78166?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Science-Optimization-238636?style=for-the-badge" />
@@ -74,6 +74,9 @@ public:
 
 | Field | Project | Description | Tech | Status |
 |-------|---------|-------------|------|--------|
+| ⚙️ **Systems / DevOps \| 42 Tirana** | 🐳 **[Inception](https://github.com/FRENKLIP)** | System administration & containerization: multi-service infrastructure using Docker Compose (NGINX, MariaDB, WordPress) | Docker, Docker Compose, NGINX, MariaDB | ✅ Done |
+| 🕹️ **Algorithms \| 42 Tirana** | 👻 **[Pacman](https://github.com/FRENKLIP)** | Classic Pacman game implementation featuring multi-agent AI, search algorithms, and game state logic | Python | ✅ Done |
+| 🧩 **Algorithms \| 42 Tirana** | 🌀 **[A-MAZE-ING](https://github.com/FRENKLIP)** | Maze generation & pathfinding visualizer using advanced graph traversal algorithms | Python | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | Custom `printf` from scratch — format specifiers, flags, width and precision | C | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 📥 **[get_next_line](https://github.com/FRENKLIP/Get-Next-Line)** | Reads files line by line using file descriptors, buffers and static memory | C | ✅ Done |
@@ -89,6 +92,7 @@ public:
 > 💡 More projects dropping soon — follow to stay updated!
 
 ---
+
 ## 🗺️ Skill Tree
 
 ```mermaid
@@ -100,15 +104,15 @@ flowchart LR
 
     DS --> DS1["✅ Year 1 Completed<br/>Calculus 1 & 2<br/>Linear Algebra<br/>Programming Basics<br/>Intro to Data Science<br/>Probability & Statistics<br/>Data Structures<br/>Data Processing & Visualization"]
 
-    SE1 --> SE2A["🔄 Level 2 Started<br/>Systems & Networks Administration<br/>Linux Infrastructure<br/>Virtualization<br/>Containers<br/>Server Management"]
+    SE1 --> SE2A["✅ Level 2 Completed<br/>Systems & Networks Admin<br/>Inception (Docker Infrastructure)<br/>Linux & Containerization<br/>Server Management"]
 
-    SE1 --> SE2B["🔄 Level 2 Started<br/>Object Oriented Programming<br/>Python<br/>OOP Principles<br/>Inheritance<br/>Design Patterns"]
+    SE1 --> SE2B["✅ Level 2 Completed<br/>OOP & Graph Algorithms<br/>Pacman Game Engine / AI<br/>A-MAZE-ING (Maze Pathfinding)<br/>OOP Principles & Design"]
 
     DS1 --> DS2["🔄 Year 2 In Progress<br/>Advanced Calculus<br/>Databases<br/>Scientific Computing<br/>OOP<br/>Big Data<br/>Optimization<br/>Numerical Methods"]
 
-    SE2A --> SE3A["⏳ Level 3<br/>System & Network Programming<br/>Multithreading<br/>Synchronization<br/>Resource Management<br/>Network Protocols"]
+    SE2A --> SE3A["🔄 Level 3 In Progress<br/>System & Network Programming<br/>Multithreading<br/>Synchronization<br/>Resource Management<br/>Network Protocols"]
 
-    SE2B --> SE3B["⏳ Level 3<br/>Algorithmics<br/>Optimization<br/>Graph Traversal<br/>Multi-Agent Pathfinding<br/>System Simulation"]
+    SE2B --> SE3B["🔄 Level 3 In Progress<br/>Advanced Algorithmics<br/>Optimization<br/>Multi-Agent Pathfinding<br/>System Simulation"]
 
     DS2 --> DS3["⏳ Year 3<br/>Machine Learning<br/>Complex Networks<br/>Signal Processing<br/>Data Analysis<br/>Professional Practice<br/>Data Science Systems Project"]
 
@@ -131,12 +135,13 @@ flowchart LR
     style SE1 fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
     style DS1 fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
 
-    style SE2A fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
-    style SE2B fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
-    style DS2 fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
+    style SE2A fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
+    style SE2B fill:#238636,color:#fff,stroke:#3fb950,stroke-width:2px
 
-    style SE3A fill:#30363d,color:#8b949e,stroke:#8b949e
-    style SE3B fill:#30363d,color:#8b949e,stroke:#8b949e
+    style DS2 fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
+    style SE3A fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
+    style SE3B fill:#1f6feb,color:#fff,stroke:#58A6FF,stroke-width:3px
+
     style SE4A fill:#30363d,color:#8b949e,stroke:#8b949e
     style SE4B fill:#30363d,color:#8b949e,stroke:#8b949e
     style DS3 fill:#30363d,color:#8b949e,stroke:#8b949e
