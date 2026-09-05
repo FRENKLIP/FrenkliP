@@ -66,7 +66,7 @@
 | Field | Project | Preview | Description | Tech | Status |
 |-------|---------|---------|-------------|------|--------|
 | 🕹️ **Algorithms \| 42 Tirana** | 👻 **[Pacman](https://github.com/FRENKLIP/Pacman-from-Scratch)** | <img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/main/assets/pacman-preview.gif" width="130" alt="Pacman Preview" /> | Classic Pacman game featuring multi-agent AI & pathfinding algorithms | C++ / Python | ✅ Done |
-| 🧩 **Algorithms \| 42 Tirana** | 🌀 **[A-MAZE-ING]([https://github.com/FRENKLIP/A-maze-ING])** | <img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/main/assets/maze-preview.gif" width="130" alt="Maze Preview" /> | Maze generation & pathfinding visualizer using graph algorithms | C / C++ | ✅ Done |
+| 🧩 **Algorithms \| 42 Tirana** | 🌀 **[A-MAZE-ING](https://github.com/FRENKLIP/A-maze-ING)** | <img src="https://raw.githubusercontent.com/FRENKLIP/FRENKLIP/main/assets/maze-preview.gif" width="130" alt="Maze Preview" /> | Maze generation & pathfinding visualizer using graph algorithms | C / C++ | ✅ Done |
 | ⚙️ **Systems / DevOps \| 42 Tirana** | 🐳 **[Inception](https://github.com/FRENKLIP)** | — | System administration & containerization: Docker Compose infrastructure | Docker, NGINX, MariaDB | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 🔧 **[ft_printf](https://github.com/FRENKLIP/print-f-C-Function)** | — | Custom `printf` from scratch — format specifiers, flags, width/precision | C | ✅ Done |
 | ⚙️ **Software Engineering \| 42 Tirana** | 📚 **[Libft](https://github.com/FRENKLIP/libft)** | — | Custom C standard library — 40+ reimplemented functions | C | ✅ Done |
